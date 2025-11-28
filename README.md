@@ -20,4 +20,4 @@ You may download any AQI dataset (e.g., from Kaggle or other public sources) and
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook ML_IA1_final.ipynb
+jupyter notebook AQI_using_lightgbm.ipynb
